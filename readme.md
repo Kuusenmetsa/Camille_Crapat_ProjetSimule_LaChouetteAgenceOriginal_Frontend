@@ -41,7 +41,7 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
         </td>
     </tr>
 </table>
-</br></br>
+</br>
 
 ### Résultat Lighthouse
 
@@ -68,8 +68,58 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
     </tr>
     <tr>
         <td>SEO</td>
-        <td>Nom du fichier de la page2</td>
-        <td>Renommer le fichier et le nommer contact.html</td>
+        <td>Chargement lent</td>
+        <td>Réduire la taille des images quand c'est nécessaire</td>
+    </tr>
+    <tr>
+        <td>SEO</td>
+        <td>Balise sémantique manquante</td>
+        <td>Ajouter des balises de type header, nav, section, ...</td>
+    </tr>
+    <tr>
+        <td>SEO</td>
+        <td>Erreur au W3C sur la lang et le css</td>
+        <td>Mettre lang sur fr et corriger les erreurs de css</td>
+    </tr>
+    <tr>
+        <td>SEO</td>
+        <td>Lien non utile qui perturbe le réferencement</td>
+        <td>Supprimer les liens</td>
+    </tr>
+    <tr>
+        <td>Accessibilité</td>
+        <td>Erreur lien vers bootstrap</td>
+        <td>Corriger lien vers bootstrap</td>
+    </tr>
+    <tr>
+        <td>Accessibilité</td>
+        <td>Texte trop petit</td>
+        <td>Agrandir le texte</td>
+    </tr>
+    <tr>
+        <td>Accessibilité</td>
+        <td>Couleur texte/icône (pas assez de contraste)</td>
+        <td>Changement de couleur</td>
+    </tr>
+    <tr>
+        <td>Accessibilité</td>
+        <td>Trait en fond perturbant la lecture du texte</td>
+        <td>Suppression du fond</td>
+    </tr>
+    <tr>
+        <td>Accessibilité</td>
+        <td>Texte en image (impossible pour les logiciels pour malvoyant de lire le texte)</td>
+        <td>Mettre le texte dans des balises adaptés</td>
+    </tr>
+    <tr>
+        <td>Accessibilité</td>
+        <td>Lien page2</td>
+        <td>Mettre le nom de la page (contact)</td>
+    </tr>
+    <tr>
+        <td>Accessibilité</td>
+        <td>Alt des images mal écrit</td>
+        <td>Réécrire les alt des images</td>
     </tr>
 </table>
 
@@ -82,7 +132,8 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 - CSS
 
 ### Autres informations
-- Voir le résultat de ce projet : https://ohmyfood.kappli.eu/
+- Voir le site d'origine : https://lachouetteagenceo.kappli.eu/
+- Voir le site avec les amélioration : https://lachouetteagence.kappli.eu/
 - Profil linkedin : https://www.linkedin.com/in/camille-crapat-399816214/
 - Portfolio : https://www.kappli.eu
 - Github : https://github.com/KappliApp/
