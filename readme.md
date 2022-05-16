@@ -41,12 +41,11 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
         </td>
     </tr>
 </table>
-</br>
 
 ### Résultat Lighthouse
 
-- Rapport lighthouse : 
-- Rapport lighthouse détaillé :
+- Rapport lighthouse : https://data.kappli.eu/Kappli_Camille_Crapat_ProjetOpenclassrooms_La-Chouette-Agence_original/rapports/rapport
+- Rapport lighthouse détaillé : https://data.kappli.eu/Kappli_Camille_Crapat_ProjetOpenclassrooms_La-Chouette-Agence_original/rapports/rapport_détaillé
 
 ### Amélioration à apporter :
 
@@ -125,7 +124,7 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 
 ### Voir le résultat de l'optimisation : 
 
-- 
+- lien GitHub du code amélioré : https://github.com/KappliApp/-Kappli_Camille_Crapat_ProjetOpenclassrooms_La-Chouette-Agence_Am-lior-
 
 ### Stack utilisée :
 - HTML
