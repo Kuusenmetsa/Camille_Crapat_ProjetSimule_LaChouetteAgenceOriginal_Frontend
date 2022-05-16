@@ -47,7 +47,7 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 - Rapport lighthouse : https://data.kappli.eu/Kappli_Camille_Crapat_ProjetOpenclassrooms_La-Chouette-Agence_original/rapports/rapport
 - Rapport lighthouse détaillé : https://data.kappli.eu/Kappli_Camille_Crapat_ProjetOpenclassrooms_La-Chouette-Agence_original/rapports/rapport_détaillé
 
-### Amélioration à apporter :
+### Amélioration à apporter (10 demandés) :
 
 <table>
     <tr>
