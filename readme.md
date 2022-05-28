@@ -1,4 +1,4 @@
-# Projet Openclassrooms - La Chouette Agence - Amélioré
+# Projet Openclassrooms - La Chouette Agence - Original
 ## Optimisez un site web existant
 
 ### Mise en situation
