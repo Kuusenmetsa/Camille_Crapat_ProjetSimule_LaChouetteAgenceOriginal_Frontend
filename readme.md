@@ -44,8 +44,8 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 
 ### Résultat Lighthouse :
 
-- Rapport lighthouse : https://data.kappli.eu/lachouetteagenceo/rapports/lachouetteagenceo_rapport_SEO_min.png
-- Rapport lighthouse détaillé : https://data.kappli.eu/lachouetteagenceo/rapports/lachouetteagenceo_rapport_SEO_détaillé.pdf
+- Rapport lighthouse : https://data.kappli.eu/lachouetteagenceoriginal/lachouetteagenceoriginal_rapportTest.png
+- Rapport lighthouse détaillé : https://data.kappli.eu/lachouetteagenceoriginal/lachouetteagenceoriginal_rapportTestComplet.pdf
 
 ### Améliorations apportées (10 demandés) :
 
@@ -133,8 +133,8 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 - CSS
 
 ### Autres informations :
-- Voir le site d'origine : https://lachouetteagenceo.kappli.eu/
-- Voir le site avec les améliorations : https://lachouetteagence.kappli.eu/
-- Profil Linkedin : https://www.linkedin.com/in/camille-crapat-399816214/
+- Voir le site d'origine : https://lachouetteagenceoriginal.kappli.eu/
+- Voir le site avec les améliorations : https://lachouetteagenceameliore.kappli.eu/
+- Profil Linkedin : https://www.linkedin.com/in/ccrapat/
 - Portfolio : https://kappli.eu
 - GitHub : https://github.com/KappliApp/
